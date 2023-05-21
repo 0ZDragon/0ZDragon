@@ -25,11 +25,15 @@ Here are some ideas to get you started:
  
 ## 🤔 What I'm doing
 - learn to program
+<!--
+不用Ubuntu了
+没时间
 - I want to build some custom roms for cancro and lithium
 - If possible, build some custom roms for selina
+-->
 
 ## 💻 Environment
-[![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022%2e04%20LTS-e95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/jammy/)<br>
+[![Fedora Linux 38 (Workstation Edition)](https://img.shields.io/badge/Fedora%20Linux%2038%20(Workstation%20Edition)-87cefa?style=flat-square&logo=fedora&logoColor=ffffff)](https://docs.fedoraproject.org/en-US/releases/f38/)<br>
 [![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)<br>
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00aafe?style=flat-square&logo=windows11&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)<br>
 
