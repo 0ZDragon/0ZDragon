@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=0ZDragon&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ZDragon&layout=compact&hide_title=true&hide_border=true" />
 
 ### 👋 Hi there
 
@@ -25,6 +24,7 @@ Here are some ideas to get you started:
  
 ## 🤔 What I'm doing
 - learn to program
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ZDragon&layout=compact&hide_title=true&hide_border=true" />
 <!--
 不用Ubuntu了
 没时间
