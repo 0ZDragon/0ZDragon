@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 ### 👋 Hi there
 
+ - 是䖋，**打单爽的**
  - You can call me 0ZDragon :)
  - I like custom roms.
  - That's it :)
