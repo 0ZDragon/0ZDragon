@@ -24,6 +24,8 @@ Here are some ideas to get you started:
  - That's it :)
  
 ## 🤔 What I'm doing
+- Using [RIME | 中州韻輸入法引擎](https://rime.im)
+- Using [虎码输入法](https://tiger-code.com)
 - learn to program
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ZDragon&layout=compact&hide_title=true&hide_border=true" />
 <!--
@@ -36,7 +38,8 @@ Here are some ideas to get you started:
 ## 💻 Environment
 [![Fedora Linux 38 (Workstation Edition)](https://img.shields.io/badge/Fedora%20Linux%2038%20(Workstation%20Edition)-87cefa?style=flat-square&logo=fedora&logoColor=ffffff)](https://docs.fedoraproject.org/en-US/releases/f38/)<br>
 [![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)<br>
-[![Windows 11](https://img.shields.io/badge/Windows%2011-00aafe?style=flat-square&logo=windows11&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)<br>
+
+[![Rubbishdows 11](https://img.shields.io/badge/Windows%2011-00aafe?style=flat-square&logo=windows11&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)<br>
 
 ## 📱 Devices
 
