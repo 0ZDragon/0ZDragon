@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ## 💻 Environment
 [![Fedora Sway Spin 40](https://img.shields.io/badge/Fedora%20Sway%20Spin%2040-87cefa?style=flat-square&logo=fedora&logoColor=ffffff)](https://fedoraproject.org/spins/sway/)<br>
-[![Android 14](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-14/)<br>
+[![Android 14](https://img.shields.io/badge/Android%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-14/)<br>
 
 [![Rubbishdows 11](https://img.shields.io/badge/Rubbishdows%2011-00aafe?style=flat-square&logo=windows11&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)<br>
 
