@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 -->
 
 ## 💻 Environment
-[![Fedora Linux 38 (Workstation Edition)](https://img.shields.io/badge/Fedora%20Linux%2038%20(Workstation%20Edition)-87cefa?style=flat-square&logo=fedora&logoColor=ffffff)](https://docs.fedoraproject.org/en-US/releases/f38/)<br>
-[![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)<br>
+[![Fedora Sway Spin 40](https://img.shields.io/badge/Fedora%20Sway%20Spin%2040-87cefa?style=flat-square&logo=fedora&logoColor=ffffff)](https://fedoraproject.org/spins/sway/)<br>
+[![Android 14](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-14/)<br>
 
 [![Rubbishdows 11](https://img.shields.io/badge/Rubbishdows%2011-00aafe?style=flat-square&logo=windows11&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)<br>
 
@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 
 [![Lenovo TianYi 510S 垃圾电脑 👎🏻](https://img.shields.io/badge/Lenovo%20TianYi%20510S%20垃圾电脑%20👎-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://item.lenovo.com.cn/product/1019973.html)<br>
 
+[![Xiaomi Mi 10 👍🏻](https://img.shields.io/badge/Xiaomi%20Mi%2010%20👍🏻-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.gsmarena.com/xiaomi_mi_10_5g-10082.php)<br>
 [![Xiaomi Mi Mix 👍🏻](https://img.shields.io/badge/Xiaomi%20Mi%20Mix%20👍🏻-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.gsmarena.com/xiaomi_mi_mix-8400.php)<br>
 [![Xiaomi Mi 4](https://img.shields.io/badge/Xiaomi%20Mi%204%20LTE-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.gsmarena.com/xiaomi_mi_4-6518.php)<br>
 
